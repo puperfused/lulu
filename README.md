@@ -1,5 +1,5 @@
 # lulu
-Reactive application
+- Reactive application built using Spring Webflux which internally uses Netty(default) and Project Reactor implementation of Reactive Stream Specification.
 
 # First commit
 - git init  (Adding local directory to remote)
