@@ -10,4 +10,4 @@ Reactive application
 - git remote -v -> to check the remote origin
 - git fetch origin master
 - git pull --rebase origin master (There was a commit/creation of repo in remote, so rebase your local repo, it applies your local commit)
-- git push origin master
+- git push origin master OR git push -u origin master
