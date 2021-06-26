@@ -9,6 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LuluApplication {
 
 	public static void main(String[] args) {
+		log.info("Starting LuluApplication...");
 		SpringApplication.run(LuluApplication.class, args);
 	}
 
